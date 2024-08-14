@@ -1,7 +1,7 @@
 class auto{
 
     constructor(marca, modelo, anoe){
-        this.marca=marca;
+        this.marca=marca;//como definir variables
         this.modelo=modelo;
         this.anoe=anoe;
     }
